@@ -1,0 +1,31 @@
+.img{
+    width: 30%;
+    height:30%;
+    margin-top: 5%;
+}
+
+.box >.section{
+display: flex;
+flex-direction: column;
+margin-left: 40%;
+}
+.button{
+    background-color: black;
+    color: aliceblue;
+}
+.article{
+    width: 30%;
+    justify-content:flex-end;
+    font-size: smaller;
+text-align: justify;}
+.title{
+    font-size: x-large;
+    font-weight: bold;
+}
+.price{
+    font-size: large;
+    font-style: italic;
+    color: rgb(10, 10, 10);
+    /* background-color: rgb(4, 4, 4); */
+    padding-right: 0%;
+}
